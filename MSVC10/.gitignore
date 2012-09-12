@@ -1,0 +1,11 @@
+Debug/*
+Release/*
+x64/*
+
+MSVC10.*
+!MSVC10.sln
+
+*.vcxproj.user
+
+
+
